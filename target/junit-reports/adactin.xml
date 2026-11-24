@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="8.029" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="To validate login functionality of adactin hotel application" name="Verify that user can login by valid credentials" time="7.907">
+<system-out><![CDATA[
+Given user has to launch the browser and url................................passed
+When user has to  enter the valid username and valid password...............passed
+And user has to click the login button......................................passed
+Then verify that user has reached the homepage and close the browser........passed
+]]></system-out>
+</testcase>
+</testsuite>
